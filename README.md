@@ -1,4 +1,4 @@
-# sony-control
+# sony-remote
 A Python projet to play with the Sony Camera Remote API
 
 This project provides a scriptable way to access over wifi various features of the Sony cameras that
